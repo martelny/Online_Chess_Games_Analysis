@@ -1,1 +1,1 @@
-# Online_Chess_Games_Analysis
+# Analiza partii szachów online (Lichess)
